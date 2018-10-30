@@ -1,0 +1,128 @@
+* {
+	margen : 0 ;
+	relleno : 0 ;
+
+}
+
+cuerpo {
+	antecedentes : #CCCCCC ;
+}
+
+#contenedor {
+	ancho : 960 px ;
+	margen : auto ;
+	margen superior : 20 px ;
+	radio del borde : 10 px ;
+	desbordamiento : oculto ;
+	margen inferior : 20 px ;
+}
+
+encabezado {
+	fondo : #FFFFFF ;
+	altura : 100 % ;
+	flotar : izquierda ;
+}
+
+nav {
+	fondo : # 222222 ;
+	altura : 190 px ;
+}
+
+nav  li {
+	estilo de lista : ninguno ;
+	pantalla : bloque en línea ;
+	relleno : 20 px  0 px ;
+}
+
+nav  a {
+	color : #FFFFFF ;
+	tamaño de letra :   18 px ;
+	font-weight : negrita ;
+	Familia tipográfica : arial ;
+	texto-decoración : ninguno ;
+	relleno : 20 px ;
+
+}
+nav  a : hover {
+	antecedentes : #CCCCCC ;
+	color : # 000000 ;
+
+}
+#slider {
+	margen : auto ;
+	borde : 5 px  sólido  # 000000 ;
+	margen superior : 5 px ;
+}
+
+#contenido {
+	flotar : izquierda ;
+	ancho : 700 px ;
+	fondo : #FFFFFF ;
+	radio del borde : 10 px ;
+	desbordamiento :   oculto ;
+	margen superior : 10 px ;
+	margen derecho : 10 px ;
+	margen inferior : 10 px ;
+}
+.articulos {
+	margen : 10 px ;
+}
+
+.articulos  h2 {
+	tamaño de letra : 40 px ;
+	relleno : 10 px ;
+	color : # 000000 ;
+	borde inferior : 3 px  sólido  # 000000 ;
+	Familia tipográfica : arial ;
+
+}
+
+.articulos  img {
+	 flotar : izquierda ;
+	 margen : 10 px ;
+}
+.articulos  p {
+	margen inferior : 5 px ;
+	margen superior : 5 px ;
+	Familia tipográfica : arial ;
+
+}
+
+a un lado {
+	 flotar : a la derecha ;
+	 ancho : 250 px ;
+	 fondo : #FFFFFF ;
+	 margen superior : 10 px ;
+	 radio del borde : 10 px ;
+}
+
+aparte  h3 {
+	tamaño de letra : 20 px ;
+	color : #FFFFFF ;
+	fondo : # 000000 ;
+	radio del borde : 4 px ;
+	text-align : center ;
+	relleno : 10 px ;
+	Familia tipográfica : arial ;
+}
+a un lado  p {
+	relleno : 10 px ;
+	tamaño de letra : 14 px ;
+	Familia tipográfica : arial ;
+	alinear texto : justificar ;
+
+}
+pie de página {
+	altura : 40 px ;
+	fondo : # 000000 ;
+	color : #FFFFFF ;
+	claro : ambos ;
+
+}
+pie de página  p {
+	tamaño de letra : 15 px ;
+	Familia tipográfica : arial ;
+	text-align : center ;
+	altura de línea : 30 px ;
+
+}
